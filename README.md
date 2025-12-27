@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+<img width="1910" height="1008" alt="image" src="https://github.com/user-attachments/assets/15929423-b1c6-4f7f-82da-27a69b7daa63" />
 
 
-### Name:
-### Register Number:
+
+### Name: KRITHIK KIRAN S
+### Register Number: 25011340
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
